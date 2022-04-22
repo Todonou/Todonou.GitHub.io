@@ -4,18 +4,16 @@ hey there 😘
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTodonou=anuraghazra&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTodonou=anuraghazra&show_icons=true&theme=radical)
 ## Hello GitHub Fans 👋
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-jiachengyuan2020@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm JcYuan
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
-
+- A  Engineering Undergraduate Student. 
+- 🌱 Currently working in LiuZhou, China.
+- 💬 Ask me about anything.
+- ⭐ You may like [webkettle](https://github.com/Todonou) 、[hexo-theme-yilia-plus](https://github.com/) 
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -35,9 +33,9 @@ hey there 😘
 
 
 ### 关于我
-- [技术笔记](
+- [技术笔记]
 -[]
-- [微博](http://weibo.com/jayinfo)
+- [微博]
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
