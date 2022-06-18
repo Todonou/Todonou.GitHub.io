@@ -11,7 +11,7 @@ hey there 😘
 ### I'm JcYuan
 
 - A  Engineering Undergraduate Student. 
-- 🌱 Currently working in LiuZhou, China.
+- 🌱 Currently working in WuHan, China.
 - 💬 Ask me about anything.
 - ⭐ You may like [webkettle](https://github.com/Todonou) 、[hexo-theme-yilia-plus](https://github.com/) 
 ### 🛠 技术栈 | Tech Stack
@@ -29,6 +29,7 @@ hey there 😘
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=todonou&layout=compact)](https://github.com/todonou/github-readme-stats)
 
 
 
