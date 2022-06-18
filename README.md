@@ -1,8 +1,5 @@
 # Todonou.GitHub.io
 hey there 😘
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTodonou=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTodonou=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTodonou=anuraghazra&show_icons=true&theme=radical)
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-jiachengyuan2020@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
 ---
