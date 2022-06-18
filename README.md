@@ -33,7 +33,6 @@ hey there 😘
 
 ### 关于我
 - [技术笔记]
--[]
 - [微博]
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
